@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gabrieloliveira/Documents/fiec/mlruns/0/f40c631b1a6f403f9fd44ca501c526a4/artifacts
+end_time: 1675306555823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f40c631b1a6f403f9fd44ca501c526a4
+run_name: rebellious-slug-675
+run_uuid: f40c631b1a6f403f9fd44ca501c526a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675306512553
+status: 3
+tags: []
+user_id: gabrieloliveira

@@ -1,0 +1,6 @@
+name: FIEC_time_series_test
+conda_env: conda.yaml
+
+entry_points:
+    main:
+        command: "python mlflow.py"

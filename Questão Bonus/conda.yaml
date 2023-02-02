@@ -1,0 +1,10 @@
+name: FIEC_teste
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - pip:
+    - scikit-learn
+    - xgboost
